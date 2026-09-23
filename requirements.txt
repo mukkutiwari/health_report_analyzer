@@ -1,0 +1,9 @@
+streamlit
+requests
+pymupdf
+pdf2image
+pytesseract
+Pillow
+python-dotenv
+google-generativeai
+ollama
