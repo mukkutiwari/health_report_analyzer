@@ -8,9 +8,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-genai.configure(api_key=os.getenv("Gemini_API_KEY"))
+genai.configure(api_key=os.getenv("AQ.Ab8RN6LZ4YEdNf_X-iSZ5F3d0_7vGt5rad2g_p8Co8Hg8JVZ7w"))
 
-HF_API_KEY=os.getenv("HF_API_KEY")
+HF_API_KEY=os.getenv("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")
 HF_HEADERS={"Authorization": f"Bearer {HF_API_KEY}"}
 
 
